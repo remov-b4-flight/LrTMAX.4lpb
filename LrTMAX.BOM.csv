@@ -5,7 +5,7 @@ Designator,QTY,Value,Footprint,JLCPCB P#
 "C42, C46, C51, C52, ",4,4.7u,Capacitor_SMD:C_0805_2012Metric,
 "C47, C48, C49, C50, C53, C54, C56, ",7,1u,Capacitor_SMD:C_0805_2012Metric,
 "D1, D2, D3, D4, D5, D6, D7, D8, D10, D11, D12, D13, D14, D15, D16, D17, ",16,1N4148W,LrE-6:D_SOD-123,
-"D18, ",1,LED0603_BL,LED_SMD:LED_0603_1608Metric,
+"D18, ",1,LED0603_BL,LED_SMD:LED_0603_1608Metric,C72038
 "D31, D32, D33, D34, D35, D36, D37, D38, ",8,WS2812B-2020,LrE-6:LED_WS2812B-2020,
 "H1, H2, H3, H4, ",4,MountingHole,MountingHole:MountingHole_2.7mm_M2.5,unmounted
 "J1, ",1,USB_C_Receptacle_USB2.0,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,C2848974
