@@ -2,11 +2,11 @@
 <export version="E">
   <design>
     <source>/home/jenoki/Workspace/LrTMAX/LrTMAX.4lpb/LrTMAX.kicad_sch</source>
-    <date>2023年07月16日 00時24分15秒</date>
+    <date>2023年07月21日 19時00分39秒</date>
     <tool>Eeschema 6.0.11+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>LrTMAX 1.2d</title>
+        <title>LrTMAX 1.2</title>
         <company>Ruffles Inc,.</company>
         <rev/>
         <date>2019-01-24</date>
@@ -25,7 +25,7 @@
   </design>
   <components>
     <comp ref="C10">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -34,7 +34,7 @@
       <tstamps>00000000-0000-0000-0000-00005c92acd6</tstamps>
     </comp>
     <comp ref="C11">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -43,7 +43,7 @@
       <tstamps>00000000-0000-0000-0000-00005c92ade4</tstamps>
     </comp>
     <comp ref="C12">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -52,7 +52,7 @@
       <tstamps>00000000-0000-0000-0000-00005c8cf4fd</tstamps>
     </comp>
     <comp ref="C13">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -61,7 +61,7 @@
       <tstamps>00000000-0000-0000-0000-00005c8cf611</tstamps>
     </comp>
     <comp ref="C14">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -70,7 +70,7 @@
       <tstamps>00000000-0000-0000-0000-00005c8cf744</tstamps>
     </comp>
     <comp ref="C15">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -79,7 +79,7 @@
       <tstamps>00000000-0000-0000-0000-00005c8cf86c</tstamps>
     </comp>
     <comp ref="C16">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -88,7 +88,7 @@
       <tstamps>00000000-0000-0000-0000-00005c92aef7</tstamps>
     </comp>
     <comp ref="C17">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -97,7 +97,7 @@
       <tstamps>00000000-0000-0000-0000-00005c92b0b3</tstamps>
     </comp>
     <comp ref="C18">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -106,7 +106,7 @@
       <tstamps>00000000-0000-0000-0000-00005c92a85a</tstamps>
     </comp>
     <comp ref="C19">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -115,7 +115,7 @@
       <tstamps>00000000-0000-0000-0000-00005c92a94c</tstamps>
     </comp>
     <comp ref="C20">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -124,7 +124,7 @@
       <tstamps>00000000-0000-0000-0000-00005c92aa33</tstamps>
     </comp>
     <comp ref="C21">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -133,7 +133,7 @@
       <tstamps>00000000-0000-0000-0000-00005c92abb3</tstamps>
     </comp>
     <comp ref="C22">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -142,7 +142,7 @@
       <tstamps>00000000-0000-0000-0000-000060a9284f</tstamps>
     </comp>
     <comp ref="C23">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -151,7 +151,7 @@
       <tstamps>00000000-0000-0000-0000-000060a92855</tstamps>
     </comp>
     <comp ref="C24">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -160,7 +160,7 @@
       <tstamps>00000000-0000-0000-0000-000060a92843</tstamps>
     </comp>
     <comp ref="C25">
-      <value>22n</value>
+      <value>33n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="C-Device" description=""/>
       <property name="Sheetname" value=""/>
@@ -651,42 +651,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060809bd7</tstamps>
     </comp>
-    <comp ref="H1">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
-      <libsource lib="LrE-6-rescue" part="MountingHole-Mechanical" description=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LrTMAX.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c4990ab</tstamps>
-    </comp>
-    <comp ref="H2">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
-      <libsource lib="LrE-6-rescue" part="MountingHole-Mechanical" description=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LrTMAX.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c4990f9</tstamps>
-    </comp>
-    <comp ref="H3">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
-      <libsource lib="LrE-6-rescue" part="MountingHole-Mechanical" description=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LrTMAX.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c49919e</tstamps>
-    </comp>
-    <comp ref="H4">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
-      <libsource lib="LrE-6-rescue" part="MountingHole-Mechanical" description=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LrTMAX.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c499229</tstamps>
-    </comp>
     <comp ref="J1">
       <value>USB_C_Receptacle_USB2.0</value>
       <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
@@ -987,7 +951,7 @@
       <tstamps>00000000-0000-0000-0000-00005c4acb2c</tstamps>
     </comp>
     <comp ref="R48">
-      <value>1K</value>
+      <value>470</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="LrE-6-rescue" part="R-Device" description=""/>
       <property name="Sheetname" value=""/>
