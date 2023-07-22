@@ -5,7 +5,7 @@ Ref,Qnty,Value,Cmp name,Footprint
 "C42, C46, C51, C52, ",4,4.7u,C-Device,Capacitor_SMD:C_0805_2012Metric
 "C47, C48, C49, C50, C53, C54, C56, ",7,1u,C-Device,Capacitor_SMD:C_0805_2012Metric
 "D1, D2, D3, D4, D5, D6, D7, D8, D10, D11, D12, D13, D14, D15, D16, D17, ",16,1N4148W,1N4148W-Diode,LrE-6:D_SOD-123
-"D18, ",1,LED0603_BL,LED-Device,LED_SMD:LED_0603_1608Metric
+"D18, ",1,LED 0603  BLUE,LED-Device,LED_SMD:LED_0603_1608Metric
 "D31, D32, D33, D34, D35, D36, D37, D38, ",8,WS2812B-2020,WS2812B-2020,LrE-6:LED_WS2812B-2020
 "J1, ",1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_USB2.0,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12
 "J2, ",1,Conn_02x05_Odd_Even,Conn_02x05_Odd_Even,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical
